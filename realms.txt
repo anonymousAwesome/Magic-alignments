@@ -1,0 +1,10 @@
+realm
+wind
+lore
+aura
+college
+flame
+tradition
+song
+order
+essence
